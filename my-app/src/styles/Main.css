@@ -1,0 +1,31 @@
+.main-content{
+  background-image: url(../Images/reactjs-icon.png);
+  background-repeat: no-repeat;
+  background-position: right 75%;
+
+  ;
+}
+
+.heading{
+  margin-left: 27px;
+  margin-top: 50px;
+  font-size: 41px;
+
+}
+
+.point-list{
+  color:  #FFFFFF;
+  line-height: 42px;
+  padding-left: 51px;
+  list-style: none;
+  font-weight: 100;
+
+}
+
+.point-list li::marker{
+  content: "\2022";
+  color:#61DAFB;
+  font-size: x-large;
+  letter-spacing: 10px;
+  
+}

@@ -1,0 +1,27 @@
+.header{
+  height: 91px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #21222A;
+  color: white;
+}
+.logo{
+  display: flex;
+  align-items: center;
+  font-weight: 700;
+  font-size: 23px;
+  color:  #61DAFB;
+  padding: 26px 31px; 
+  
+}
+
+.logo img{
+  height: 32px;
+  color: #61DAFB; 
+}
+.project-name {
+  font-size: 20px;
+  padding: 27px 35px;    
+  ;
+}
