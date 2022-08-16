@@ -1,0 +1,50 @@
+.name-div{
+}
+.user-name{
+  padding-top: 10px;
+  font-size: 25px;
+  line-height: 0px;
+  text-align: center;
+}
+.user-profile{
+  font-size: 14px;
+  text-align: center;
+  color: #F3BF99;
+}
+.portfolio-site{
+  text-align: center;
+  font-size: 10px;   
+}
+.action-buttons{
+  font-size: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.email-button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 115px;
+  border-radius: 6px;
+  height: 34px;
+  background-color: white;
+  margin-right:10px ;
+
+}
+.email-button img , .linkedIn-button img{
+  margin-right: 5px;
+  height: 16px;
+}
+
+.linkedIn-button{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 115px;
+ background-color: #5093E2;
+ color: white;
+ 
+ height: 34px;
+ border-radius: 6px;
+}

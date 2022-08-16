@@ -1,0 +1,13 @@
+.footer-icons{
+  background-color: #161619;
+  width:100%;
+  align-items: center;
+  text-align: center;
+  border-radius: 0px 0px 10px 10px ;
+
+}
+
+.footer-icons img{
+  margin: 10px
+
+}
