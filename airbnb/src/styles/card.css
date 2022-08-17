@@ -1,0 +1,50 @@
+.card{
+  margin-top: 49px;
+  margin-left: 37px;
+  width:176px ;
+  font-size:12px ;
+  line-height: 8px;
+  position: relative;
+}
+.card-image{
+  height: 235px;
+  border-radius: 9px;
+}
+.card-stats{
+  margin-top: 9px;
+  width: 176px;
+  display: flex;
+  align-items: center;
+
+}
+
+.card-stats span{
+ 
+  margin-left:4px ;
+}
+.card-stats img{
+  height: 14px;
+}
+.review-number{
+  color: #918E9B;
+}
+
+.price-tag{
+  font-weight: bold;
+}
+.card-heading{
+  line-height: 10px;
+}
+.card-badge{
+  position: absolute;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 2px;
+  height: 20px;
+  width: 61px;
+  left: 6px;
+  top:6px
+}
+
