@@ -1,0 +1,15 @@
+.block{
+  background-color: black;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  box-shadow: 5px 5px 10px black;
+  height: 250px;
+  width: 250px;
+  margin: 10px;
+  display: inline-block;
+  border-radius: 10px;
+}
+.block:hover{
+  box-shadow:5px 5px 10px  #7036e3;
+}
