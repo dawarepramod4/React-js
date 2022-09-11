@@ -17,8 +17,6 @@ const  handleChange = (event)=> {
     return {
       ...prevData,
       [name]:type==="checkbox" ? checked:value
-      
-      
     }
   })
   
