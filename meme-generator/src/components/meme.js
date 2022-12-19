@@ -17,6 +17,8 @@ function handleClick(){
 const memesArray=allMemeImages.data.memes
  let index=Math.floor(Math.random()*memesArray.length)
   let url=memesArray[index].url
+  
+  // react automatically puts the old value inside the callback function
   setmeme((Prevmeme)=>({
     ...Prevmeme,
     randomImage:url
